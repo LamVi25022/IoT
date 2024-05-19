@@ -47,8 +47,7 @@ Sau đó Server sẽ được khởi chạy. Mở tệp index.html và khởi ch
 - Email: nlv.25022002@gmail.com
 
 ## Tài liệu
-
-- Cài đặt Arduino: [Arduino](https://www.arduino.cc/en/software)
-- Cài đặt MQTT: [Mosquitto](https://mosquitto.org/download/)
 - Cài đặt Nodejs: [Nodejs](https://nodejs.org/en).
+-  Cài đặt MQTT: [Mosquitto](https://mosquitto.org/download/)
+- Cài đặt Arduino: [Arduino](https://www.arduino.cc/en/software)
 - Kiến thức về lắp đặt phần cứng: [Youtube](https://youtu.be/qdxKUQEgDNE?si=jq4B2je0GqNbf6Yp)
