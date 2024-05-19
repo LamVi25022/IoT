@@ -40,11 +40,12 @@ npm start
 
 Sau đó Server sẽ được khởi chạy. Mở tệp index.html và khởi chạy Live Server. Sau khi chạy dự án sẽ có giao diện như sau:
 
-
+![swagger](./swagger (1).png)
+![swagger2](./swagger (2).png)
 
 ## Tác giả
-- Nguyễn Quang Huy
-- Email: nguyenquanghuy872002@gmail.com
+- Nguyễn Lâm Vĩ
+- Email: nlv.25022002@gmail.com
 
 ## Tài liệu
 
